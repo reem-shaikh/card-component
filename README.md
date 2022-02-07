@@ -1,6 +1,6 @@
 ### Reusable Responsive Card Component
 #### Live Demo 
-https://reem-shaikh.github.io/card-component
+> https://reem-shaikh.github.io/card-component
 -----
 
 #### Installation and usage example
