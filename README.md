@@ -1,9 +1,9 @@
 ### Reusable Responsive Card Component
-#### Live Demo 
+## Live Demo 
 > https://reem-shaikh.github.io/card-component
 -----
 
-#### Installation and usage example
+## Installation and usage example
 1. Open your terminal in the folder you want to save the clone and then type
 ```bash
 $ git clone https://github.com/reem-shaikh/card-component.git
